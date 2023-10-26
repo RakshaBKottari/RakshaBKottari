@@ -3,7 +3,12 @@
 As a Computer Science Engineering graduate, I offer a strong technical background, problem-solving skills, and a passion for innovation. My diverse skill set and dedication to learning make me an asset in dynamic environments.
 
 ## 🛠 Skills
-Flutter, Flutter Flow, Javascript, HTML, CSS, Postman
+- :fire: Flutter
+- :bomb: Flutter Flow
+- :sparkles: Javascript
+- :boom: HTML
+- :zap: CSS
+- :eight_pointed_black_star: Postman
 
 ## Charts
 <p align="center">
