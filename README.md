@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello, I'm Raksha B Kottari
 
-<!--
-**RakshaBKottari/RakshaBKottari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a Computer Science Engineering graduate, I offer a strong technical background, problem-solving skills, and a passion for innovation. My diverse skill set and dedication to learning make me an asset in dynamic environments.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+Flutter, Flutter Flow, Javascript, HTML, CSS, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Charts
+<p align="center">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RakshaBKottari&theme=tokyonight&hide_border=true" width="64%" alt="rakshixh profile-details"/>
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RakshaBKottari&theme=tokyonight"  width="31%" alt="rakshixh github stats"/>
+</p>
+
+## 🔗 Contact Me 
+[![portfolio](https://img.shields.io/badge/portfolio-F24236?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rakshabkottari.me/)
+  
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakshabkottari/)
