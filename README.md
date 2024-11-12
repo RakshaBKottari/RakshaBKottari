@@ -10,6 +10,10 @@ As a Computer Science Engineering graduate, I offer a strong technical backgroun
 - :zap: CSS
 - :eight_pointed_black_star: Postman
 
+## Contributions
+
+[![An image of @rakshabkottari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rakshabkottari)](https://holopin.io/@rakshabkottari)
+
 ## Charts
 <p align="center">
   
