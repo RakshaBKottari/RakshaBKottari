@@ -23,6 +23,5 @@ Hey there! 👋 I’m all about creating cool stuff on the web and mobile. Wheth
 </p>
 
 ## 🔗 Contact Me 
-[![portfolio](https://img.shields.io/badge/portfolio-F24236?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rakshabkottari.me/)
   
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakshabkottari/)
