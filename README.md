@@ -1,6 +1,6 @@
 # Hello, I'm Raksha B Kottari
 
-As a Computer Science Engineering graduate, I offer a strong technical background, problem-solving skills, and a passion for innovation. My diverse skill set and dedication to learning make me an asset in dynamic environments.
+Hey there! 👋 I’m all about creating cool stuff on the web and mobile. Whether it’s a sleek app or a game-changing website, I love turning ideas into reality. Big fan of Node.js, React.js, Flutter and Flutterflow. Coding isn’t just work—it’s my vibe. Let’s build something awesome together! 🚀✨
 
 ## 🛠 Skills
 - :fire: Flutter
